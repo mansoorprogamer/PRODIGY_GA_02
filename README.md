@@ -6,6 +6,8 @@ link: https://colab.research.google.com/drive/1G2ZWLiBF_xAv-gVpOHh0evGcOBSWHw30?
 
 How to run?
 
-Run the cells on collab and VIOLA it wolks!
+Run the cells on collab
+OR
+If you have an NVIDIA GPU and NVIDIA CUDA, then download the ipynb file and run it locally, will run faster and opitmally. 
 
 My Outputs have also been shared in OUTPUT folder.
